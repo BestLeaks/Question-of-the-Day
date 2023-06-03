@@ -3,6 +3,13 @@ Questions and Facts for F2F Bot (Fears to Fathom)
 
 I've provided an NPM package so you may use this for yourself if you want!
 
+If it is too difficult to edit or whatever you may just create a thread in the discussions tab. You will go off the format of what's below and I'll add it for you. 
+
+Don't worry about the brackets, just make sure if you add more than one you put the , after it before making a new line (unless it's the final one in your list)
+```
+"cart or car?"
+```
+
 # Pull Requests/Suggestions
 You may use the discussions tab for suggestions and help if you need it. 
 

@@ -29,6 +29,6 @@ Me [BestLeaks](https://github.com/BestLeaks)
 [Factful.js](https://github.com/scientific-dev/factful.js) by [scientific-dev](https://github.com/scientific-dev) - used their layout and a code from the index file. 
 
 ## Suggestors and Pull Requestors
-none
+[Inisity, Fears to Fathom Head Mod](https://github.com/inisity) - contributions towards adding questions and facts
 
 Maintained by the [Fears to Fathom Community](https://discord.gg/fears-to-fathom), [BestLeaks](https://github.com/BestLeaks), and the [Mega Utilities Company](https://github.com/Roleplay-Utilities)

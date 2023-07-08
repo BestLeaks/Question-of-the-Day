@@ -1,5 +1,5 @@
 // Greet Message
-console.log('Thanks for using questions-and-facts Fact Bundle!')
+console.log('Thanks for using questions-and-facts Bundle!')
 
 // Importing files
 // Fact Files
